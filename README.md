@@ -1,8 +1,6 @@
 # Cangjie5_DIY
 
-魔改版倉五碼表。
-
-本碼表不完全遵循官方理論及規則，僅凴作者意願進行修改。
+<b>本碼表不完全遵循官方理論及規則，僅凴作者意願進行修改。</b>
 
 若需要正常的碼表，可使用：[Jackchows/Cangjie5](https://github.com/Jackchows/Cangjie5)。
 
