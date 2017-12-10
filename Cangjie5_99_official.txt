@@ -53,7 +53,7 @@
 鷴	ADHAF
 晰	ADHL
 時	ADI
-??	ADM
+??	ADM	IDS：⿱日本
 暐	ADMQ
 暕	ADWF
 鄤	AENL
