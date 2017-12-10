@@ -9520,7 +9520,7 @@
 鄠	MSNL
 攷	MSOK
 厄	MSU
-𥈠	MT
+开	MT
 厝	MTA
 廝	MTCL
 鳽	MTHAF
@@ -9543,7 +9543,7 @@
 朁	MUA
 蠶	MUALI
 襾	MUB
-𣿅	MUF
+炁	MUF
 ??	MUHAF
 夏	MUHE
 ??	MUHG
@@ -9558,7 +9558,7 @@
 邧	MUNL
 卼	MUNMU
 畫	MUW
-匸	MV
+匚	MV
 脣	MVB
 牙	MVDH
 辱	MVDI
