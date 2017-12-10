@@ -16617,7 +16617,7 @@
 气	XOMN
 ??	XOMNN
 ??	XOMR
-鋛	XONIN
+伃	XONIN
 伄	XONL
 ??	XOO
 ??	XOOF
@@ -16939,7 +16939,7 @@
 ??	XXODP
 ??	XXOF
 鯈	XXOLO
-𨥤	XXOM
+亼	XXOM
 鵨	XXORH
 屳	XXOU
 顈	XXPFM
