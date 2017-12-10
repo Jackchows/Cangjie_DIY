@@ -13,7 +13,7 @@
 ??	AAIE	IDS+差量混合表示：⿰日⿰[既-旡]殳
 ??	AAJV
 暘	AAMH
-??	AAN
+??	AAN	IDS：⿰日門
 ??	AANG
 晹	AAPH
 暍	AAPV
