@@ -4,16 +4,16 @@
 曑	AAAH
 曡	AAAM
 覸	AABUU
-??	AADM
+??	AADM	IDS：⿰日⿱日本
 焸	AAF
 𭧌	AAFU
 鷼	AAHAF
 暒	AAHM
 𣈲	AAHU
-??	AAIE
+??	AAIE	IDS+差量混合表示：⿰日⿰[既-旡]殳
 暥	AAJV
 暘	AAMH
-??	AAN
+??	AAN	IDS：⿰日門
 𣋆	AANG
 晹	AAPH
 暍	AAPV
@@ -42,32 +42,32 @@
 冒	ABU
 㬬	ABUG
 晛	ABUU
-??	AC
-??	ACI
+??	AC	IDS：⿰日金
+??	ACI	IDS：⿰显戈
 暡	ACIM
 晜	ACNH
 昐	ACSH
 杲	AD
-??	ADCI
+??	ADCI	IDS：⿱日松
 晽	ADD
 鷴	ADHAF
 晰	ADHL
 时	ADI
-??	ADM
+??	ADM	IDS：⿱日本
 暐	ADMQ
 暕	ADWF
 鄤	AENL
 炅	AF
-??	AFBB
+??	AFBB	IDS：⿰日常
 曭	AFBF
 暽	AFDQ
 晱	AFF
 影	AFHHH
 顯	AFMBC
 晃	AFMU
-??	AFNL
+??	AFNL	IDS：⿰㬎阝
 歞	AFNO
-??	AFOG
+??	AFOG	IDS：⿰㬎隹
 圼	AG
 𣆀	AGB
 曀	AGBT
@@ -78,10 +78,10 @@
 𣇌	AGP
 暿	AGRR
 𣈷	AHAG
-??	AHAM
+??	AHAM	IDS：⿰日⿱白本
 晌	AHBR
 眉	AHBU
-??	AHDS
+??	AHDS	IDS：⿱日秀
 昄	AHE
 昸	AHEY
 ??	AHF
