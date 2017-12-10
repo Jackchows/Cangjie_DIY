@@ -1248,7 +1248,7 @@
 鍉	CAMO
 甑	CAMVN
 鍆	CAN
-𠕇	CANA
+鐧	CANA
 鄫	CANL
 ??	CANT
 鑭	CANW
@@ -5095,7 +5095,7 @@
 泉	HAE
 灥	HAEHE
 ??	HAEJ
-瞯	HAF
+𤽄	HAF
 ??	HAFHH
 ??	HAFMU
 皛	HAHAA
@@ -6054,7 +6054,7 @@
 ??	HSN
 ??	HSNIN
 雇	HSOG
-矴	HSOK
+敫	HSOK
 篤	HSQF
 ??	HSR
 扈	HSRAU
@@ -7839,7 +7839,7 @@
 盅	LBT
 幙	LBTAK
 幪	LBTBO
-𠗟	LBTCO
+幞	LBTCO
 帡	LBTT
 幭	LBTWI
 冘	LBU
@@ -9520,7 +9520,7 @@
 鄠	MSNL
 攷	MSOK
 厄	MSU
-𥈠	MT
+开	MT
 厝	MTA
 廝	MTCL
 鳽	MTHAF
@@ -9543,7 +9543,7 @@
 朁	MUA
 蠶	MUALI
 襾	MUB
-𣿅	MUF
+炁	MUF
 ??	MUHAF
 夏	MUHE
 ??	MUHG
@@ -9558,7 +9558,7 @@
 邧	MUNL
 卼	MUNMU
 畫	MUW
-匸	MV
+匚	MV
 脣	MVB
 牙	MVDH
 辱	MVDI
@@ -10319,7 +10319,7 @@
 僾	OBBE
 儩	OBCH
 側	OBCN
-𤨒	OBG
+隺	OBG
 偁	OBGB
 倜	OBGR
 鸙	OBHAF
@@ -12802,7 +12802,7 @@
 咇	RPH
 ??	RPHAF
 吻	RPHH
-蕌	RPHP
+唿	RPHP
 ??	RPHR
 ??	RPIM
 ??	RPLII
@@ -12893,7 +12893,7 @@
 哪	RSQL
 ??	RSRG
 嘔	RSRR
-砉	RSSE
+叚	RSSE
 啒	RSUU
 號	RSYPU
 唶	RTA
@@ -15973,7 +15973,7 @@
 罽	WLMFN
 ??	WLMHM
 ??	WLMJ
-棊	WLMRV
+睘	WLMRV
 罡	WLMYM
 ??	WLNDO
 罞	WLNIH
@@ -16428,7 +16428,7 @@
 ??	XHYOI
 箎	XHYPU
 笘	XHYR
-、	XI
+丶	XI
 宀	XIB
 鷛	XIBHA
 鄘	XIBNL
@@ -16617,7 +16617,7 @@
 气	XOMN
 ??	XOMNN
 ??	XOMR
-鋛	XONIN
+伃	XONIN
 伄	XONL
 ??	XOO
 ??	XOOF
@@ -16939,14 +16939,14 @@
 ??	XXODP
 ??	XXOF
 鯈	XXOLO
-𨥤	XXOM
+亼	XXOM
 鵨	XXORH
 屳	XXOU
 顈	XXPFM
 ??	XXQJC
-??	XXRC
+唫	XXRC
 婜	XXSEV
-??	XXSMY
+𥪡	XXSMY
 鵘	XXSRH
 ??	XXTCP
 莰	XXTGN
@@ -16966,8 +16966,8 @@
 ??	XXXTB
 蓗	XXXTC
 蘮	XXXTW
-??	XXXUU
-??	XXXXX
+岀	XXXUU
+〇	XXXXX
 鸆	XXXYA
 ??	XXXYK
 ??	XXYCP
@@ -17243,7 +17243,7 @@
 斖	YKHBM
 逖	YKHF
 逛	YKHG
-𥂝	YKHHH
+彣	YKHHH
 斒	YKHSB
 ??	YKI
 效	YKKS
