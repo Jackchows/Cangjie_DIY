@@ -12802,7 +12802,7 @@
 咇	RPH
 ??	RPHAF
 吻	RPHH
-蕌	RPHP
+唿	RPHP
 ??	RPHR
 ??	RPIM
 ??	RPLII
@@ -12893,7 +12893,7 @@
 哪	RSQL
 ??	RSRG
 嘔	RSRR
-砉	RSSE
+叚	RSSE
 啒	RSUU
 號	RSYPU
 唶	RTA
