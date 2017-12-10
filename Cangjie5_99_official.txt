@@ -65,7 +65,7 @@
 影	AFHHH
 顯	AFMBC
 晃	AFMU
-??	AFNL
+??	AFNL	IDS：⿰㬎阝
 歞	AFNO
 ??	AFOG
 ??	AG
