@@ -42,13 +42,13 @@
 冒	ABU
 ??	ABUG
 晛	ABUU
-??	AC
-??	ACI
+??	AC	IDS：⿰日金
+??	ACI	IDS：⿰显戈
 暡	ACIM
 晜	ACNH
 昐	ACSH
 杲	AD
-??	ADCI
+??	ADCI	IDS：⿱日松
 ??	ADD
 鷴	ADHAF
 晰	ADHL
