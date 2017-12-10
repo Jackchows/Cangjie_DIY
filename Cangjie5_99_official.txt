@@ -58,7 +58,7 @@
 暕	ADWF
 鄤	AENL
 炅	AF
-??	AFBB
+??	AFBB	IDS：⿰日常
 曭	AFBF
 暽	AFDQ
 晱	AFF
