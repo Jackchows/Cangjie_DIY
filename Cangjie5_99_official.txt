@@ -1248,7 +1248,7 @@
 鍉	CAMO
 甑	CAMVN
 鍆	CAN
-𠕇	CANA
+鐧	CANA
 鄫	CANL
 ??	CANT
 鑭	CANW
@@ -5095,7 +5095,7 @@
 泉	HAE
 灥	HAEHE
 ??	HAEJ
-瞯	HAF
+𤽄	HAF
 ??	HAFHH
 ??	HAFMU
 皛	HAHAA
@@ -6054,7 +6054,7 @@
 ??	HSN
 ??	HSNIN
 雇	HSOG
-矴	HSOK
+敫	HSOK
 篤	HSQF
 ??	HSR
 扈	HSRAU
