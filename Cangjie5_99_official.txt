@@ -49,10 +49,10 @@
 昐	ACSH
 杲	AD
 ??	ADCI
-??	ADD
+晽	ADD
 鷴	ADHAF
 晰	ADHL
-時	ADI
+时	ADI
 ??	ADM
 暐	ADMQ
 暕	ADWF
