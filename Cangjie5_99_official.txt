@@ -67,7 +67,7 @@
 晃	AFMU
 ??	AFNL	IDS：⿰㬎阝
 歞	AFNO
-??	AFOG
+??	AFOG	IDS：⿰㬎隹
 ??	AG
 ??	AGB
 曀	AGBT
