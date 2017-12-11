@@ -106,7 +106,7 @@
 曒	AHSK
 昇	AHT
 ??	AHTF
-??	AHUJ
+曍	AHUJ
 ??	AHV
 昂	AHVL
 晲	AHXU
