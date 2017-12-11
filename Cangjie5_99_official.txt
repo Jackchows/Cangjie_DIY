@@ -100,7 +100,7 @@
 ??	AHP
 星	AHQM
 昳	AHQO
-??	AHQQ
+??	AHQQ	IDS+差量混合表示：⿱日⿰[拜左][羊-丷]
 ??	AHQR
 昈	AHS
 曒	AHSK
