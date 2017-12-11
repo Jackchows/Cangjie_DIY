@@ -47,7 +47,7 @@
 暡	ACIM
 晜	ACNH
 昐	ACSH
-杲	AD
+杲	AD日松
 ??	ADCI	IDS：⿱日松
 晽	ADD
 鷴	ADHAF
@@ -84,12 +84,12 @@
 ??	AHDS	IDS：⿱日秀
 昄	AHE
 昸	AHEY
-??	AHF
+𬊙	AHF
 曛	AHGF
-??	AHGR
+晧	AHGR
 昴	AHHL
-??	AHIO
-??	AHJD
+𣆅	AHIO
+𣆦	AHJD
 剔	AHLN
 昕	AHML
 暀	AHOG
