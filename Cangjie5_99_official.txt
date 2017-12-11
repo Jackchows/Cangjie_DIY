@@ -93,7 +93,7 @@
 剔	AHLN
 昕	AHML
 暀	AHOG
-??	AHOI
+??	AHOI	IDS：⿰日待
 ??	AHOK
 暰	AHOO
 晷	AHOR
