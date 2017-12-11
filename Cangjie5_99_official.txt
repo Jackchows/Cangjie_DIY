@@ -107,14 +107,14 @@
 昇	AHT
 ??	AHTF	IDS：⿱昇火
 ??	AHUJ
-??	AHV
+??	AHV	IDS：⿰易女
 昂	AHVL
 晲	AHXU
 晷	AHYR
 晙	AICE
-??	AIH
+??	AIH	IDS：⿱日戊
 晟	AIHS
-??	AIIE
+??	AIIE	IDS+差量混合表示：⿰日⿰[郎-阝]殳
 晡	AIJB
 既	AIMVU
 昹	AINE
