@@ -93,28 +93,28 @@
 剔	AHLN
 昕	AHML
 暀	AHOG
-??	AHOI
+??	AHOI	IDS：⿰日待
 敭	AHOK
 暰	AHOO
 晷	AHOR
 惖	AHP
 星	AHQM
 昳	AHQO
-??	AHQQ
+??	AHQQ	IDS+差量混合表示：⿱日⿰[拜左][羊-丷]
 晧	AHQR
 昈	AHS
 曒	AHSK
 昇	AHT
-??	AHTF
+??	AHTF	IDS：⿱昇火
 曍	AHUJ
-??	AHV
+??	AHV	IDS：⿰易女
 昂	AHVL
 晲	AHXU
 晷	AHYR
 晙	AICE
-??	AIH
+??	AIH	IDS：⿱日戊
 晟	AIHS
-??	AIIE
+??	AIIE	IDS+差量混合表示：⿰日⿰[郎-阝]殳
 晡	AIJB
 既	AIMVU
 昹	AINE
@@ -122,8 +122,8 @@
 即	AISL
 昪	AIT
 曠	AITC
-??	AITF
-??	AIV
+??	AITF	IDS：⿰日庶
+??	AIV	IDS：⿱日戉
 早	AJ
 暔	AJBJ
 昧	AJD
@@ -168,11 +168,11 @@
 戥	AMI
 㬐	AMIA
 晊	AMIG
-??	AMIHS
+??	AMIHS	IDS：⿰星成
 旱	AMJ
 昊	AMK
 昮	AMKS
-??	AMMF
+??	AMMF	IDS：⿰日示
 晸	AMMK
 曬	AMMP
 晤	AMMR
