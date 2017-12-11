@@ -168,11 +168,11 @@
 戥	AMI
 ??	AMIA
 晊	AMIG
-??	AMIHS
+??	AMIHS	IDS：⿰星成
 旱	AMJ
 昊	AMK
 昮	AMKS
-??	AMMF
+??	AMMF	IDS：⿰日示
 晸	AMMK
 曬	AMMP
 晤	AMMR
