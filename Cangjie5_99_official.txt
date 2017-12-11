@@ -368,66 +368,66 @@
 暯	ATAK
 晪	ATBC
 曚	ATBO
-??	ATC
-??	ATCD
+晎	ATC
+曗	ATCD
 暴	ATCE
-??	ATCG
+??	ATCG	IDS：⿱日𡋍
 謈	ATCR
-??	ATGK
-??	ATGR
+𣈸	ATGK
+𪱋	ATGR
 曦	ATGS
-??	ATGU
-??	ATHN
-??	ATK
+??	ATGU	IDS：⿰日羌
+??	ATHN	IDS：⿱日荇
+𬀲	ATK
 暪	ATLB
 曣	ATLF
-??	ATLK
+暎	ATLK
 暵	ATLO
-??	ATMC
+𣈒	ATMC
 曄	ATMJ
-??	ATOS
-??	ATOV
-??	ATQU
-??	ATT
-??	ATTR
-??	ATUI
-??	ATXC
+𣋭	ATOS
+??	ATOV	IDS：⿰日養
+??	ATQU	IDS：⿱日⿰羊毛
+??	ATT	IDS：⿰日并
+𪱋	ATTR
+𬁍	ATUI
+??	ATXC	IDS：⿰日兼
 巴	AU
 暨	AUAM
-??	AUD
-??	AUE
+㮣	AUD
+㫞	AUE
 塈	AUG
 毷	AUHQU
-??	AUJF
+??	AUJF	IDS：⿰日崇
 勖	AUKS
 暟	AUMT
 郿	AUNL
 鱀	AUNWF
-??	AUP
+??	AUP	IDS：⿱⿰日㔾心
 岊	AUU
 艮	AV
 鶡	AVHAF
 曏	AVHL
 毼	AVHQU
-??	AVML
-??	AVNE
+𣇓	AVML
+㫽	AVNE
 歇	AVNO
-??	AWK
+??	AWK	IDS：⿰日因
 曙	AWLA
 曼	AWLE
-??	AWLJ
-??	AWTJ
-??	AYAJ
+曎	AWLJ
+??	AWTJ	IDS：⿰日畢
+晫	AYAJ
 曨	AYBP
-??	AYC
-??	AYDI
+昗	AYC
+??	AYDI	IDS：⿰日孰
 暾	AYDK
 昉	AYHS
 旻	AYK
-??	AYLB
-??	AYLE
+??	AYLB	IDS：⿰日市
+曃	AYLE
 晬	AYOJ
-??	AYPM
+??	AYPM	IDS：⿰日虛
 暠	AYRB
 景	AYRF
 曩	AYRV
@@ -436,12 +436,12 @@
 暗	AYTA
 曈	AYTG
 暲	AYTJ
-??	AYTP
-??	AYTR
-??	AYTU
-??	AYV
+𪱍	AYTP
+??	AYTR	IDS：⿰日咅
+??	AYTU	IDS：⿰日竟
+𣌪	AYV
 昡	AYVI
-??	AYX
+𣋠	AYX
 月	B
 ??	BABT
 腥	BAHM
