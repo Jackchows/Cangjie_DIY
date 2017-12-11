@@ -122,8 +122,8 @@
 即	AISL
 ??	AIT
 曠	AITC
-??	AITF
-??	AIV
+??	AITF	IDS：⿰日庶
+??	AIV	IDS：⿱日戉
 早	AJ
 暔	AJBJ
 昧	AJD
