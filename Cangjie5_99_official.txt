@@ -10,7 +10,7 @@
 鷼	AAHAF
 暒	AAHM
 𣈲	AAHU
-??	AAIE	IDS+差量混合表示：⿰日⿰[既-旡]殳
+??	AAIE	IDS+差量混合表示：⿰日[廄-广]
 暥	AAJV
 暘	AAMH
 ??	AAN	IDS：⿰日門
@@ -47,7 +47,7 @@
 暡	ACIM
 晜	ACNH
 昐	ACSH
-杲	AD日松
+杲	AD
 ??	ADCI	IDS：⿱日松
 晽	ADD
 鷴	ADHAF
@@ -114,7 +114,7 @@
 晙	AICE
 ??	AIH	IDS：⿱日戊
 晟	AIHS
-??	AIIE	IDS+差量混合表示：⿰日⿰[郎-阝]殳
+??	AIIE	IDS+差量混合表示：⿲日[郎-阝]殳
 晡	AIJB
 既	AIMVU
 昹	AINE
