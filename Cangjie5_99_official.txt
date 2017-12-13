@@ -525,34 +525,34 @@
 賙	BCBQR
 賏	BCBUC
 覭	BCBUU
-??	BCCMS
-??	BCCSH
+??	BCCMS	IDS：⿰貝兮
+𬥏	BCCSH
 贈	BCCWA
-??	BCD
+罙	BCD
 財	BCDH
-??	BCDW
-??	BCDWF
-??	BCFBC
-??	BCFDQ
+??	BCDW	IDS：⿰貝東
+??	BCDWF	IDS：⿰貝柬
+贘	BCFBC
+𧸍	BCFDQ
 賧	BCFF
-??	BCFQC
-??	BCFQE
-??	BCGI
+䞉	BCFQC
+??	BCFQE	IDS：⿰貝𣳾
+??	BCGI	IDS：⿰貝去
 贖	BCGWC
 鵙	BCHAF
-??	BCHBT
+賉	BCHBT
 販	BCHE
 賂	BCHER
-??	BCHGR
+𬥘	BCHGR
 貶	BCHIO
-??	BCHJR
-??	BCHML
+𧵳	BCHJR
+??	BCHML	IDS：⿰冥斤
 貾	BCHPM
 貹	BCHQM
-??	BCHQU
+㲘	BCHQU
 賻	BCIBI
-??	BCICE
-贓	BCIG
+賐	BCICE
+賍	BCIG
 賤	BCII
 贂	BCIIH
 賊	BCIJ
