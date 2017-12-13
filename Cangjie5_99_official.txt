@@ -558,33 +558,33 @@
 賊	BCIJ
 賕	BCIJE
 贆	BCIKK
-??	BCIM
+䐥	BCIM
 贓	BCIMS
 貽	BCIR
 肸	BCJ
 賳	BCJIR
 賭	BCJKA
-??	BCJMF
+賩	BCJMF
 貯	BCJMN
 賄	BCKB
-??	BCKKG
+??	BCKKG	IDS+差量混合表示：⿱㓁[𡙔-土]
 賗	BCLL
-??	BCLLP
+贃	BCLLP
 贐	BCLMT
 則	BCLN
-??	BCMD
-??	BCMGI
+𫎏	BCMD
+??	BCMGI	IDS：⿰貝玉
 罕	BCMJ
-??	BCMJR
-??	BCMMU
+𧵳	BCMJR
+貦	BCMMU
 賑	BCMMV
 賦	BCMPM
 甖	BCMVN
 贉	BCMWJ
 贍	BCNCR
 鄍	BCNL
-??	BCOII
-??	BCOIR
+??	BCOII	IDS：⿰貝令
+賶	BCOIR
 罌	BCOJU
 敗	BCOK
 ??	BCOMD
