@@ -10,7 +10,7 @@
 鷼	AAHAF
 暒	AAHM
 𣈲	AAHU
-??	AAIE	IDS+差量混合表示：⿰日⿰[既-旡]殳
+??	AAIE	IDS+差量混合表示：⿰日[廄-广]
 暥	AAJV
 暘	AAMH
 ??	AAN	IDS：⿰日門
@@ -47,7 +47,7 @@
 暡	ACIM
 晜	ACNH
 昐	ACSH
-杲	AD日松
+杲	AD
 ??	ADCI	IDS：⿱日松
 晽	ADD
 鷴	ADHAF
@@ -100,7 +100,7 @@
 惖	AHP
 星	AHQM
 昳	AHQO
-??	AHQQ	IDS+差量混合表示：⿱日⿰[拜左][羊-丷]
+??	AHQQ	IDS：⿱日𢪙
 晧	AHQR
 昈	AHS
 曒	AHSK
@@ -114,7 +114,7 @@
 晙	AICE
 ??	AIH	IDS：⿱日戊
 晟	AIHS
-??	AIIE	IDS+差量混合表示：⿰日⿰[郎-阝]殳
+??	AIIE	IDS+差量混合表示：⿲日[郎-阝]殳
 晡	AIJB
 既	AIMVU
 昹	AINE
@@ -443,56 +443,56 @@
 昡	AYVI
 𣋠	AYX
 月	B
-??	BABT
+腽	BABT
 腥	BAHM
-膽	BAM
+胆	BAM
 腸	BAMH
 肥	BAU
-??	BAV
-??	BAWE
+𦚣	BAV
+𫆳	BAWE
 冥	BAYC
 朋	BB
 骨	BBB
-??	BBBB
+朤	BBBB
 腡	BBBR
 覶	BBBUU
-??	BBBV
+骽	BBBV
 骳	BBDHE
 脟	BBDI
 受	BBE
 髐	BBGGU
-??	BBGWC
+??	BBGWC	IDS：⿰骨賣
 鶻	BBHAF
 骼	BBHER
 鵬	BBHF
 骰	BBHNE
-??	BBHPM
+骶	BBHPM
 髀	BBHWJ
 髆	BBIBI
-??	BBIDD
+髍	BBIDD
 髍	BBIJC
 髂	BBJHR
 髕	BBJMC
 骷	BBJR
 髖	BBJTI
 骻	BBKMS
-??	BBKN
+骩	BBKN
 骫	BBKNI
 髏	BBLLV
 剮	BBLN
-冊	BBM
+册	BBM
 顝	BBMBC
 骭	BBMJ
 骾	BBMLK
 胴	BBMR
 脬	BBND
-??	BBNF
-??	BBNKG
+??	BBNF	IDS：⿳爫冖魚
+䯕	BBNKG
 舜	BBNQ
 骱	BBOLL
-??	BBOU
+𦞼	BBOU
 愛	BBPE
-??	BBQJM
+??	BBQJM	IDS：⿰骨彗
 咼	BBR
 髒	BBTMT
 髊	BBTQM
@@ -502,11 +502,11 @@
 臞	BBUG
 鼏	BBUL
 覓	BBUU
-??	BBV
+脮	BBV
 髁	BBWD
 髑	BBWLI
-??	BBWLO
-??	BBYBS
+??	BBWLO	IDS：⿰骨眾
+髈	BBYBS
 骹	BBYCK
 骯	BBYHN
 髓	BBYKB
@@ -516,12 +516,12 @@
 骸	BBYVO
 賵	BCABU
 賜	BCAPH
-??	BCAPP
+??	BCAPP	IDS：⿰貝昆
 贔	BCBCC
 賝	BCBCD
 賙	BCBGR
 賱	BCBJJ
-??	BCBND
+??	BCBND	IDS：⿰貝孚
 賙	BCBQR
 賏	BCBUC
 覭	BCBUU
