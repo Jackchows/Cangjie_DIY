@@ -109084,5 +109084,4 @@
 ㄦ	yyyyl	注音符號
 ˊ	yyyym
 ˇ	yyyyn
-ˇ	yyyyn
 ˋ	yyyyo
