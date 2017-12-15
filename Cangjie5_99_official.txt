@@ -629,13 +629,13 @@
 膛	BFBG
 膌	BFCB
 冞	BFD
-??	BFDF
+𣎝	BFDF
 膦	BFDQ
-??	BFFS
+朥	BFFS
 縣	BFHVF
-??	BFKCF
+爒	BFKCF
 胱	BFMU
-??	BFNL
+鄬	BFNL
 懸	BFP
 胖	BFQ
 賸	BFQC
@@ -643,7 +643,7 @@
 騰	BFQF
 塍	BFQG
 螣	BFQI
-??	BFQQ
+??	BFQQ	IDS+差量混合表示：⿸[勝-力][奉-𡗗]
 謄	BFQR
 勝	BFQS
 腃	BFQU
