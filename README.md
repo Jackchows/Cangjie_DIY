@@ -15,7 +15,9 @@
 
 ## 官方碼表錄入計劃
 
-- <b>Cangjie5~6 official.txt</b>   〇三五代、六代碼表
-- <b>Cangjie5_99_official.txt</b>  九九五代碼表
+- ~~<b>Cangjie5~6 official.txt</b>   〇三五代、六代碼表~~<br />
+- ~~<b>Cangjie5_99_official.txt</b>  九九五代碼表~~
 
-目標：將官方《內碼對照表》文檔、《第五代倉頡輸入手冊》附錄六文本化。
+~~目標：將官方《內碼對照表》文檔、《第五代倉頡輸入手冊》附錄六文本化。~~
+
+此計劃已迁移至 [mrhso/Cangjie_Note](https://github.com/mrhso/Cangjie_Note)。
