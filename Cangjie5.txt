@@ -80168,6 +80168,8 @@
 𭕙	sqq
 𮩵	sqsb
 馬	sqsf
+🐴	sqsf
+🐎	sqsf
 𬼋	sqsk
 𮩸	sqsl
 𫠉	sqsm
