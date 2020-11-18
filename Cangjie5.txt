@@ -11232,6 +11232,7 @@
 𣜏	djpb
 櫁	djpi
 檸	djpn
+🍋	djpn
 桡	djpu
 樒	djpu
 櫶	djqp
@@ -26569,6 +26570,7 @@
 𮝉	hhjwj
 𥯥	hhjx
 笑	hhk
+😂	hhk
 𰋥	hhk
 簥	hhkb
 𰩶	hhke
@@ -55460,6 +55462,7 @@
 酿	mwiav
 醾	mwicd
 酸	mwice
+🍋	mwice
 𨣪	mwice
 𩈥	mwice
 𰼎	mwice
