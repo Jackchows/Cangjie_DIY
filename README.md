@@ -1,6 +1,7 @@
 # Cangjie_DIY
 
 - <b>Cangjie5.txt</b>   碼表
+- <b>Cangjie5_beta.txt</b>   Beta 版本
 - <b>NOTICES.md</b>  說明
 
 <b>本碼表不完全遵循官方理論及規則，僅憑作者意願進行修改。</b>
